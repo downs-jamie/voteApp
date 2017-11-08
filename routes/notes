@@ -1,0 +1,38 @@
+using System;
+
+// To execute C#, please define "static void Main" on a class
+// named Solution.
+
+//Rules of the evaluation:
+//Acceptable languages for this evaluation:  C#, Javascript, Java.
+//Please let us know if you would like to try another language.  You may do Part 1 and Part 2 in
+//different languages.
+//Please do all work in this tool.  We want to see how you think and how you work.
+//Do not copy and paste your code to or from another editor.  
+//Do not copy the exam or your code to "work on it later" or any other reason.  
+//If we see you copy large portions of the exam, we will terminate the evaluation.
+//Copying and pasting snippets of code are fine.  
+//If large blocks of code appear out of nowhere, we will terminate the evaluation.
+//Keep typing periodically even if you are just thinking.  Just a note of "thinking" is fine.
+//If we see prolonged inactivity, we will terminate the interview.
+//Please note that this evaluation is being recorded, so we can review this session at
+//any point during the hiring process.
+//Please do not use the video call feature.  We would like all interaction to be recorded here so we can review it later.
+
+//Part 1:
+//Write a program that prints out all lines of 99 Bottles of Beer all the way down to zero.
+//Example: "99 Bottles of beer, take one down, pass it around, 98 bottles of beer on the wall"
+//However, for numbers that are multiples of 7, replace beer with Miller
+//And for numbers that are multiples of 5, replace beer with Lite beer
+//Lastly, for numbers that are multiples of 7 and 5, replace beer with Miller Lite
+//You are welcome to take creative liberty with the beer brands, or replace it with soft drinks.
+
+
+class Solution
+{
+    static void Main(string[] args)
+    {
+
+    }
+}
+
